@@ -13,8 +13,8 @@ This project identifies the top GitHub contributors based on their location and 
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/yourusername/your-repository.git
-   cd your-repository
+   git clone https://github.com/yourusername/committers-fetch.git
+   cd committers-fetch
    ```
 
 2. **Install dependencies**
