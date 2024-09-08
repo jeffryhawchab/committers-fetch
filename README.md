@@ -22,7 +22,7 @@ This project identifies the top GitHub contributors based on their location and 
    Install the required Node.js packages using npm:
 
    ```bash
-   npm install axios
+   npm install 
    ```
 
 3. **Configure your GitHub Personal Access Token**
